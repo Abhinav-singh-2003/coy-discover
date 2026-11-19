@@ -1,0 +1,510 @@
+{
+  "profiles": [
+    {
+      "id": "p01",
+      "name": "Aarav",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=2",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Photography",
+        "Coffee",
+        "Travel"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p02",
+      "name": "Meera",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=3",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "NSUT, Delhi",
+      "interests": [
+        "Music",
+        "Books",
+        "Hiking"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p03",
+      "name": "Kabir",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=4",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "Gurugram",
+      "interests": [
+        "Startups",
+        "Cricket",
+        "Food"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p04",
+      "name": "Ananya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=5",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Delhi University",
+      "interests": [
+        "Art",
+        "Movies",
+        "Yoga"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p05",
+      "name": "Ishaan",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=6",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "Noida",
+      "interests": [
+        "Fitness",
+        "Tech",
+        "Gaming"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p06",
+      "name": "Sana",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=7",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "Jamia Millia Islamia",
+      "interests": [
+        "Poetry",
+        "Food",
+        "Dance"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p07",
+      "name": "Rohan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=8",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "South Delhi",
+      "interests": [
+        "Cycling",
+        "Music",
+        "Travel"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p08",
+      "name": "Kiara",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=9",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "Gurugram",
+      "interests": [
+        "Design",
+        "Fashion",
+        "Cafes"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p09",
+      "name": "Arjun",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=10",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "NSUT, Delhi",
+      "interests": [
+        "Coding",
+        "Football",
+        "Movies"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p10",
+      "name": "Tara",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=11",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Delhi",
+      "interests": [
+        "Books",
+        "Dogs",
+        "Photography"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p11",
+      "name": "Dev",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=12",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "Noida",
+      "interests": [
+        "Running",
+        "Coffee",
+        "Finance"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p12",
+      "name": "Naina",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=13",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "IGDTUW, Delhi",
+      "interests": [
+        "Painting",
+        "K-pop",
+        "Food"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p13",
+      "name": "Reyansh",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=14",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Gurugram",
+      "interests": [
+        "Cars",
+        "Travel",
+        "Fitness"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p14",
+      "name": "Aditi",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=15",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "Delhi University",
+      "interests": [
+        "Theatre",
+        "Music",
+        "Reading"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p15",
+      "name": "Vivaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=16",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "Faridabad",
+      "interests": [
+        "Basketball",
+        "Tech",
+        "Cooking"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p16",
+      "name": "Myra",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=17",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Delhi",
+      "interests": [
+        "Yoga",
+        "Art",
+        "Travel"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p17",
+      "name": "Aditya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=18",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "NSUT, Delhi",
+      "interests": [
+        "Open source",
+        "Cricket",
+        "Coffee"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p18",
+      "name": "Riya",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=19",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "Noida",
+      "interests": [
+        "Dance",
+        "Fashion",
+        "Movies"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p19",
+      "name": "Neil",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=20",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Gurugram",
+      "interests": [
+        "Product",
+        "Startups",
+        "Trekking"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p20",
+      "name": "Zoya",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=21",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "Delhi",
+      "interests": [
+        "Writing",
+        "Museums",
+        "Food"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p21",
+      "name": "Kunal",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=22",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "Delhi",
+      "interests": [
+        "Gaming",
+        "Anime",
+        "Basketball"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p22",
+      "name": "Ira",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=23",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Gurugram",
+      "interests": [
+        "Photography",
+        "Running",
+        "Books"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p23",
+      "name": "Parth",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=24",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "Noida",
+      "interests": [
+        "Music",
+        "Football",
+        "Cooking"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p24",
+      "name": "Simran",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=25",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "Delhi University",
+      "interests": [
+        "Travel",
+        "Dogs",
+        "Art"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p25",
+      "name": "Yash",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=26",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Technology",
+        "Fitness",
+        "Movies"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p26",
+      "name": "Diya",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=27",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "Gurugram",
+      "interests": [
+        "Singing",
+        "Coffee",
+        "Design"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p27",
+      "name": "Ritvik",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=28",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "NSUT, Delhi",
+      "interests": [
+        "Robotics",
+        "Cricket",
+        "Music"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p28",
+      "name": "Ayesha",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=29",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Jamia, Delhi",
+      "interests": [
+        "Poetry",
+        "Travel",
+        "Yoga"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p29",
+      "name": "Manav",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=30",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "Noida",
+      "interests": [
+        "Cycling",
+        "Food",
+        "Startups"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p30",
+      "name": "Kavya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=31",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "Delhi",
+      "interests": [
+        "Books",
+        "Dance",
+        "Photography"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p31",
+      "name": "Siddharth",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=32",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Gurugram",
+      "interests": [
+        "Gaming",
+        "Tech",
+        "Trekking"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p32",
+      "name": "Ishita",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=33",
+      "bio": "Weekend explorer, weekday learner. Tell me your latest discovery.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Fitness",
+        "Cafes"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p33",
+      "name": "Om",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=34",
+      "bio": "Here for genuine connections and spontaneous plans.",
+      "city": "Faridabad",
+      "interests": [
+        "Football",
+        "Music",
+        "Coding"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p34",
+      "name": "Prisha",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=35",
+      "bio": "Collecting memories, playlists, and restaurant recommendations.",
+      "city": "Delhi",
+      "interests": [
+        "Travel",
+        "Fashion",
+        "Cooking"
+      ],
+      "likedByUser": false
+    },
+    {
+      "id": "p35",
+      "name": "Dhruv",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=36",
+      "bio": "Curious by nature. Usually planning my next little adventure.",
+      "city": "Gurugram",
+      "interests": [
+        "Finance",
+        "Running",
+        "Coffee"
+      ],
+      "likedByUser": true
+    },
+    {
+      "id": "p36",
+      "name": "Navya",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=37",
+      "bio": "Big fan of thoughtful conversations and terrible puns.",
+      "city": "Noida",
+      "interests": [
+        "Movies",
+        "Painting",
+        "Dogs"
+      ],
+      "likedByUser": false
+    }
+  ],
+  "swipes": [],
+  "matches": []
+}
